@@ -20,4 +20,6 @@ Consideré el espacio de todas las horas posibles (00:00:00 hasta 23:59:59) apli
 
 ## Resultados
 
- ![Por día](https://raw.githubusercontent.com/developingo/test_aleatorio/master/img/dia.png "Por día")
+![Por día](https://raw.githubusercontent.com/developingo/test_aleatorio/master/img/dia.png "Por día")
+
+![Horario de clases](https://raw.githubusercontent.com/developingo/test_aleatorio/master/img/dia.png "Horario de clases")
